@@ -2,7 +2,7 @@
 
 <br>
 
-<p> Hi everybody! I'm Joaquín, a front-end oriented developer, creative and passionate about stoicism. I love languages and learn how to communicate in different ways, that's one of the reasons why I started to study programming. Always learning, always coding 🤓 </p>
+Hi everybody! I'm Joaquín, a front-end oriented developer, creative and passionate about stoicism. I love languages and learn how to communicate in different ways, that's one of the reasons why I started to study programming. Always learning, always coding 🤓 
 
 <br>
 
@@ -37,10 +37,10 @@
   <img src="https://img.shields.io/badge/Heroku-563D7C?style=for-the-badge&logo=heroku&logoColor=white" />
 </p>
 <p>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Webpack-563D7C?style=for-the-badge&logo=webpack&logoColor=white" />
   <img src="https://img.shields.io/badge/Babel-563D7C?style=for-the-badge&logo=babel&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-1572B6?style=for-the-badge&logo=vercel&logoColor=white" />
