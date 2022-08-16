@@ -20,13 +20,13 @@
 
 <h3>KI-GAMES</h3>
 <p>
-  <a><img src="images/ki-games-1.png" height="90" width="120"></a>
-  <a><img src="images/ki-games-2.png" height="90" width="120"></a>
-  <a><img src="images/ki-games-3.png" height="90" width="120"></a>
+  <a><img src="images/ki-games-1.png" height="140" width="200"></a>
+  <a><img src="images/ki-games-2.png" height="140" width="200"></a>
+  <a><img src="images/ki-games-3.png" height="140" width="200"></a>
 </p>
 <p>
-  <a><img src="images/ki-games-4.png" height="90" width="120"></a>
-  <a><img src="images/ki-games-5.png" height="90" width="120"></a>
+  <a><img src="images/ki-games-4.png" height="140" width="200"></a>
+  <a><img src="images/ki-games-5.png" height="140" width="200"></a>
 </p>
 
 <h3>SALVÁ MI HUELLA</h3>
