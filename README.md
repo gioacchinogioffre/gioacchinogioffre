@@ -18,7 +18,7 @@
 
 ## :pushpin: My proyects
 
-<h3>KI-GAMES</h3>
+<a href="https://ki-games.vercel.app/" target="_blank" rel="noreferrer"><img src="assets/logo-ki-games.png" height="20" width="20"></a><h3>KI-GAMES</h3>
 <p>
   <a><img src="images/ki-games-1.png" height="140" width="200"></a>
   <a><img src="images/ki-games-2.png" height="140" width="200"></a>
@@ -27,12 +27,18 @@
 <p>
   <a><img src="images/ki-games-4.png" height="140" width="200"></a>
   <a><img src="images/ki-games-5.png" height="140" width="200"></a>
+  <a><img src="images/ki-games-6.png" height="140" width="200"></a>
 </p>
 
-<h3>SALVÁ MI HUELLA</h3>
+<a href="https://salva-mi-huella.vercel.app/" target="_blank" rel="noreferrer"><img src="assets/logo-salva-mi-huella.png" height="20" width="20"></a><h3>SALVÁ MI HUELLA</h3>
 <p>
-  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/pedidotopia/tabla.jpg"></a>
-  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/pedidotopia/nuevoprod.png"></a>
-  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/pedidotopia/imagen.png"></a>
+  <a><img src="images/salva-mi-huella-1.png" height="140" width="200"></a>
+  <a><img src="images/salva-mi-huella-2.png" height="140" width="200"></a>
+  <a><img src="images/salva-mi-huella-3.png" height="140" width="200"></a>
+</p> 
+<p>
+  <a><img src="images/salva-mi-huella-4.png" height="140" width="200"></a>
+  <a><img src="images/salva-mi-huella-5.png" height="140" width="200"></a>
+  <a><img src="images/salva-mi-huella-6.png" height="140" width="200"></a>
 </p> 
 &nbsp;
