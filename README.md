@@ -18,8 +18,8 @@
 
 ## :pushpin: My proyects
 
-<div>
-<a href="https://ki-games.vercel.app/" target="_blank" rel="noreferrer"><img src="assets/logo-ki-games.png" height="30" width="40"></a><h3>KI-GAMES</h3>
+<div display='flex'>
+<a href="https://ki-games.vercel.app/" target="_blank" rel="noreferrer"><img src="assets/logo-ki-games.png" height="50" width="60"></a><h3>KI-GAMES</h3>
 </div>
 <p>
   <a><img src="images/ki-games-1.png" height="140" width="200"></a>
@@ -33,7 +33,7 @@
 </p>
 
 <div>
-<a href="https://salva-mi-huella.vercel.app/" target="_blank" rel="noreferrer"><img src="assets/logo-salva-mi-huella.png" height="30" width="40"></a><h3>SALVÁ MI HUELLA</h3>
+<a href="https://salva-mi-huella.vercel.app/" target="_blank" rel="noreferrer"><img src="assets/logo-salva-mi-huella.png" height="50" width="50"></a><h3>SALVÁ MI HUELLA</h3>
 </div>
 <p>
   <a><img src="images/salva-mi-huella-1.png" height="140" width="200"></a>
