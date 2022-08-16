@@ -2,9 +2,8 @@
 
 <br>
 
-Hi everybody! I'm Joaquín, a front-end oriented developer with more than 8 years of accounting experience. I'm a creative persion, passionate about stoicism and music. I love languages and learn how to communicate in different ways, that's one of the reasons why I recently started studying programming. Always learning, always coding 🤓 
+Hi everybody! I'm Joaquín, a front-end oriented developer with more than 8 years of accounting experience. I'm a creative person, passionate about music and stoicism. I love languages and learn how to communicate in different ways, that's one of the reasons why I recently started studying programming. Always learning, always coding 🤓 
 
-<br>
 
 <h3 align="left">Want to know more about me? Just connect!</h3>
 <p align="left">
