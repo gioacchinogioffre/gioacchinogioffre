@@ -53,7 +53,14 @@ Hi everybody! I'm Joaquín, a front-end oriented developer, creative and passion
 ## :pushpin: My proyects
 
 <a href="https://ki-games.vercel.app/" target="_blank" rel="noreferrer"><img src="assets/logo-ki-games.png" height="60" width="70"><h3>KI-GAMES</h3></a>
-<p>SPA (Single Page Application) about videogames entirely developed by me. Scripted in Javascript language, using React for the Front End and Redux as state management. All components were developed with pure CSS without the use of external libraries. The SPA consumes data from an API (RAWG) through a Back End developed in Node.JS using Express and Postman, adding new features to the original API. Click on the title to check it out! </p>
+<p>SPA (Single Page Application) about videogames entirely developed by me. Scripted in Javascript language, using React for the Front End and Redux as state management. All components were developed with pure CSS without the use of external libraries. The SPA consumes data from an API (RAWG) through a Back End developed in Node.JS using Express and Postman, adding new features to the original API. 
+
+Some features of the project:
+- Video games searches, sortings and multiple and combined filterings.
+- Possibility to upload new video games by the user.
+- Login demo using auth0.
+
+Click on the title to check it out! </p>
 <p>
   <a><img src="images/ki-games-1.png" height="140" width="200"></a>
   <a><img src="images/ki-games-2.png" height="140" width="200"></a>
