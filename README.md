@@ -1,3 +1,4 @@
+<img src="images/banner.jpg" alt='banner'></img>
 <h1 align="center">Hi 👋, I'm Joaquín Tomás Gioffre</h1>
 <h3 align="center">FULL STACK DEVELOPER || ACCOUNTING ASSISTANT</h3>
 
@@ -19,7 +20,7 @@
 ## :pushpin: My proyects
 
 <div display='flex'>
-<a href="https://ki-games.vercel.app/" target="_blank" rel="noreferrer"><img src="assets/logo-ki-games.png" height="50" width="60"></a><h3>KI-GAMES</h3>
+<a href="https://ki-games.vercel.app/" target="_blank" rel="noreferrer"><img src="assets/logo-ki-games.png" height="60" width="70"></a><h3>KI-GAMES</h3>
 </div>
 <p>
   <a><img src="images/ki-games-1.png" height="140" width="200"></a>
@@ -31,6 +32,8 @@
   <a><img src="images/ki-games-5.png" height="140" width="200"></a>
   <a><img src="images/ki-games-6.png" height="140" width="200"></a>
 </p>
+
+&nbsp;&nbsp;
 
 <div>
 <a href="https://salva-mi-huella.vercel.app/" target="_blank" rel="noreferrer"><img src="assets/logo-salva-mi-huella.png" height="50" width="50"></a><h3>SALVÁ MI HUELLA</h3>
