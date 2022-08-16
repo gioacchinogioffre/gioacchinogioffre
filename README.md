@@ -2,12 +2,11 @@
 
 <br>
 
-<h1>Who am I?</h1>
-<p>Acá va mi historia</p>
+<p> Hi everybody! I'm Joaquín, a front-end oriented developer, creative and passionate about stoicism. I love languages and learn how to communicate in different ways, that's one of the reasons why I started to study programming. Always learning, always coding 🤓 </p>
 
 <br>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Want to know more about me? Just connect!</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/joaquingioffre/?locale=en_us" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/joaquingioffre/?locale=en_us" height="30" width="40" /></a>
 <a href="https://www.instagram.com/joaquin.gio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/joaquin.gio/" height="30" width="40" /></a>
@@ -16,21 +15,12 @@
 
 <br>
 
-<h3 align="left">Languages, Tools and Frameworks:</h3>
+## 💼 Languages, Tools and Frameworks
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Webpack-563D7C?style=for-the-badge&logo=webpack&logoColor=white" />
-  <img src="https://img.shields.io/badge/Babel-563D7C?style=for-the-badge&logo=babel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-1572B6?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 <p>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
@@ -45,6 +35,15 @@
   <img src="https://img.shields.io/badge/Postman-E34F26?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/GCP-339933?style=for-the-badge&logo=gcp&logoColor=white" />
   <img src="https://img.shields.io/badge/Heroku-563D7C?style=for-the-badge&logo=heroku&logoColor=white" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Webpack-563D7C?style=for-the-badge&logo=webpack&logoColor=white" />
+  <img src="https://img.shields.io/badge/Babel-563D7C?style=for-the-badge&logo=babel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-1572B6?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
 <br>
