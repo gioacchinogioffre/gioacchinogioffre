@@ -1,4 +1,4 @@
-<img src="images/banner.jpg" alt='banner'></img>
+<img src="images/banner.png" alt='banner'></img>
 <!-- <h1 align="center">Hi 👋, I'm Joaquín Tomás Gioffre</h1>
 <h3 align="center">FULL STACK DEVELOPER || ACCOUNTING ASSISTANT</h3> -->
 
