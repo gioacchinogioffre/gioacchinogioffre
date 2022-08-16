@@ -52,9 +52,8 @@ Hi everybody! I'm Joaquín, a front-end oriented developer, creative and passion
 
 ## :pushpin: My proyects
 
-<p>
-<a href="https://ki-games.vercel.app/" target="_blank" rel="noreferrer"><img src="assets/logo-ki-games.png" height="60" width="70"></a><h3>KI-GAMES</h3>
-</p>
+<a href="https://ki-games.vercel.app/" target="_blank" rel="noreferrer"><img src="assets/logo-ki-games.png" height="60" width="70"><h3>KI-GAMES</h3></a>
+<p>SPA (Single Page Application) sobre videojuegos realizada completamente por mi. Escrita en lenguaje Javascript, utilizando React para el Front End y Redux como state management. Todos los componentes fueron desarrollados con CSS puro sin uso de librerías externas. La SPA consume datos de una API (RAWG) a través de un Back End desarrollado en Node.JS utilizando Express y Postman, agregando nuevas funcionalidades a la API original. </p>
 <p>
   <a><img src="images/ki-games-1.png" height="140" width="200"></a>
   <a><img src="images/ki-games-2.png" height="140" width="200"></a>
@@ -66,9 +65,15 @@ Hi everybody! I'm Joaquín, a front-end oriented developer, creative and passion
   <a><img src="images/ki-games-6.png" height="140" width="200"></a>
 </p>
 
+<br>
 
-<p>
-<a href="https://salva-mi-huella.vercel.app/" target="_blank" rel="noreferrer"><img src="assets/logo-salva-mi-huella.png" height="50" width="50"></a><h3>SALVÁ MI HUELLA</h3>
+<a href="https://salva-mi-huella.vercel.app/" target="_blank" rel="noreferrer"><img src="assets/logo-salva-mi-huella.png" height="50" width="50"><h3>SALVÁ MI HUELLA</h3></a>
+<p>Desarrollo de una aplicación web cuyo objetivo es fomentar la adopción de animales en tránsito y brindar apoyo a las fundaciones que se encargan del cuidado de los mismos. 
+El lenguaje utilizado fue Javascript y se empleó la metodología SCRUM y la aplicación TRELLO como base para la organización del grupo.
+
+Principales tecnologías/librerías utilizadas: 
+- FRONT-END: ReactJs || Redux || auth0 || Paypal || GoogleMaps || Mui || Apexcharts || Bootstrap || Slick || SweetAlert2 || EmailJs
+- BACK-END: Node.JS || Express || Postman || Postgre SQL || Morgan
 </p>
 <p>
   <a><img src="images/salva-mi-huella-1.png" height="140" width="200"></a>
