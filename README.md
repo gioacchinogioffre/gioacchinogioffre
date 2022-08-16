@@ -1,6 +1,6 @@
 <img src="images/banner.jpg" alt='banner'></img>
-<h1 align="center">Hi 👋, I'm Joaquín Tomás Gioffre</h1>
-<h3 align="center">FULL STACK DEVELOPER || ACCOUNTING ASSISTANT</h3>
+<!-- <h1 align="center">Hi 👋, I'm Joaquín Tomás Gioffre</h1>
+<h3 align="center">FULL STACK DEVELOPER || ACCOUNTING ASSISTANT</h3> -->
 
 - 🌱 I’m currently learning **TypeScript and ReactNative**
 
@@ -33,7 +33,6 @@
   <a><img src="images/ki-games-6.png" height="140" width="200"></a>
 </p>
 
-&nbsp;&nbsp;
 
 <div>
 <a href="https://salva-mi-huella.vercel.app/" target="_blank" rel="noreferrer"><img src="assets/logo-salva-mi-huella.png" height="50" width="50"></a><h3>SALVÁ MI HUELLA</h3>
